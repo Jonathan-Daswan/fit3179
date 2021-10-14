@@ -1,0 +1,12 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "description": "",
+    "data": {"url": "https://raw.githubusercontent.com/Jonathan-Daswan/fit3179/main/worldometer_coronavirus_summary_data.csv"},
+    "mark": {"type": "bar", "cornerRadiusEnd": 6},
+    "encoding": {
+      "x": {"field": "continent", "type": "ordinal"},
+      "y": {"field": "total_confirmed", "aggregate": "sum"}
+    }
+  }
+  

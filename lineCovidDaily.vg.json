@@ -1,0 +1,41 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "height": 300,
+    "description": "Covid Deaths over time",
+    "data": {"url": "https://raw.githubusercontent.com/Jonathan-Daswan/fit3179/main/worldometer_coronavirus_daily_data.csv"},
+    "params": [
+   {
+   "name": "Country_selection",
+   "bind": {
+   "input": "select",
+   "options": [
+   null,
+   "Australia"
+   ],
+   "labels":[
+   "Show All",
+   "Australia"
+   ],
+   "name": "Country Selection: "
+   }
+   }
+   ],
+   "selection": {
+   "country_highlight": {
+   "type": "multi",
+   "fields": ["Country"],
+   "bind": "legend"
+   }
+   },
+    "transform":[
+        {"filter": "Country_selection == null || datum.country == Country_selection"}
+    ],
+    "mark": "line",
+    "encoding": {
+      "x": {"timeUnit": "yearmonth", "field": "date", "type": "temporal"},
+      "y": {"field": "daily_new_deaths","aggregate": "sum", "type": "quantitative"},
+      "color": {"field": "country", "type": "nominal"}
+    }
+  }
+  
