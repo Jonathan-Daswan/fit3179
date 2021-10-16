@@ -1,0 +1,661 @@
+"","country","continent","variable","value"
+"1","Afghanistan","Asia","total_deaths",6736
+"2","Albania","Europe","total_deaths",2457
+"3","Algeria","Africa","total_deaths",4254
+"4","Andorra","Europe","total_deaths",128
+"5","Angola","Africa","total_deaths",1008
+"6","Anguilla","North America","total_deaths",NA
+"7","Antigua And Barbuda","North America","total_deaths",43
+"8","Argentina","South America","total_deaths",105721
+"9","Armenia","Asia","total_deaths",4614
+"10","Aruba","North America","total_deaths",110
+"11","Australia","Australia/Oceania","total_deaths",924
+"12","Austria","Europe","total_deaths",10737
+"13","Azerbaijan","Asia","total_deaths",5023
+"14","Bahamas","North America","total_deaths",287
+"15","Bahrain","Asia","total_deaths",1384
+"16","Bangladesh","Asia","total_deaths",20685
+"17","Barbados","North America","total_deaths",48
+"18","Belarus","Europe","total_deaths",3454
+"19","Belgium","Europe","total_deaths",25241
+"20","Belize","North America","total_deaths",337
+"21","Benin","Africa","total_deaths",108
+"22","Bermuda","North America","total_deaths",33
+"23","Bhutan","Asia","total_deaths",2
+"24","Bolivia","South America","total_deaths",17806
+"25","Bosnia And Herzegovina","Europe","total_deaths",9687
+"26","Botswana","Africa","total_deaths",1569
+"27","Brazil","South America","total_deaths",556370
+"28","British Virgin Islands","North America","total_deaths",31
+"29","Brunei Darussalam","Asia","total_deaths",3
+"30","Bulgaria","Europe","total_deaths",18211
+"31","Burkina Faso","Africa","total_deaths",169
+"32","Burundi","Africa","total_deaths",9
+"33","Cabo Verde","Africa","total_deaths",298
+"34","Cambodia","Asia","total_deaths",1397
+"35","Cameroon","Africa","total_deaths",1334
+"36","Canada","North America","total_deaths",26598
+"37","Caribbean Netherlands","North America","total_deaths",17
+"38","Cayman Islands","North America","total_deaths",2
+"39","Central African Republic","Africa","total_deaths",98
+"40","Chad","Africa","total_deaths",174
+"41","Channel Islands","Europe","total_deaths",86
+"42","Chile","South America","total_deaths",35448
+"43","China Hong Kong Sar","Asia","total_deaths",212
+"44","China Macao Sar","Asia","total_deaths",NA
+"45","China","Asia","total_deaths",4636
+"46","Colombia","South America","total_deaths",120723
+"47","Comoros","Africa","total_deaths",147
+"48","Congo","Africa","total_deaths",178
+"49","Costa Rica","North America","total_deaths",5030
+"50","Cote D Ivoire","Africa","total_deaths",329
+"51","Croatia","Europe","total_deaths",8259
+"52","Cuba","North America","total_deaths",2758
+"53","Curacao","North America","total_deaths",126
+"54","Cyprus","Asia","total_deaths",419
+"55","Czech Republic","Europe","total_deaths",30373
+"56","Democratic Republic Of The Congo","Africa","total_deaths",1038
+"57","Denmark","Europe","total_deaths",2549
+"58","Djibouti","Africa","total_deaths",156
+"59","Dominica","North America","total_deaths",NA
+"60","Dominican Republic","North America","total_deaths",3963
+"61","Ecuador","South America","total_deaths",31591
+"62","Egypt","Africa","total_deaths",16518
+"63","El Salvador","North America","total_deaths",2629
+"64","Equatorial Guinea","Africa","total_deaths",123
+"65","Eritrea","Africa","total_deaths",35
+"66","Estonia","Europe","total_deaths",1272
+"67","Ethiopia","Africa","total_deaths",4385
+"68","Faeroe Islands","Europe","total_deaths",2
+"69","Falkland Islands Malvinas","South America","total_deaths",NA
+"70","Fiji","Australia/Oceania","total_deaths",238
+"71","Finland","Europe","total_deaths",982
+"72","France","Europe","total_deaths",111867
+"73","French Guiana","South America","total_deaths",187
+"74","French Polynesia","Australia/Oceania","total_deaths",149
+"75","Gabon","Africa","total_deaths",164
+"76","Gambia","Africa","total_deaths",212
+"77","Georgia","Asia","total_deaths",5820
+"78","Germany","Europe","total_deaths",92171
+"79","Ghana","Africa","total_deaths",823
+"80","Gibraltar","Europe","total_deaths",94
+"81","Greece","Europe","total_deaths",12940
+"82","Greenland","North America","total_deaths",NA
+"83","Grenada","North America","total_deaths",1
+"84","Guadeloupe","North America","total_deaths",242
+"85","Guatemala","North America","total_deaths",10339
+"86","Guinea Bissau","Africa","total_deaths",75
+"87","Guinea","Africa","total_deaths",220
+"88","Guyana","South America","total_deaths",535
+"89","Haiti","North America","total_deaths",555
+"90","Holy See","Europe","total_deaths",NA
+"91","Honduras","North America","total_deaths",7834
+"92","Hungary","Europe","total_deaths",30026
+"93","Iceland","Europe","total_deaths",30
+"94","India","Asia","total_deaths",424384
+"95","Indonesia","Asia","total_deaths",94119
+"96","Iran","Asia","total_deaths",90630
+"97","Iraq","Asia","total_deaths",18657
+"98","Ireland","Europe","total_deaths",5035
+"99","Isle Of Man","Europe","total_deaths",29
+"100","Israel","Asia","total_deaths",6473
+"101","Italy","Europe","total_deaths",128063
+"102","Jamaica","North America","total_deaths",1190
+"103","Japan","Asia","total_deaths",15184
+"104","Jordan","Asia","total_deaths",10032
+"105","Kazakhstan","Asia","total_deaths",5866
+"106","Kenya","Africa","total_deaths",3931
+"107","Kuwait","Asia","total_deaths",2320
+"108","Kyrgyzstan","Asia","total_deaths",2325
+"109","Laos","Asia","total_deaths",7
+"110","Latvia","Europe","total_deaths",2556
+"111","Lebanon","Asia","total_deaths",7906
+"112","Lesotho","Africa","total_deaths",374
+"113","Liberia","Africa","total_deaths",148
+"114","Libya","Africa","total_deaths",3509
+"115","Liechtenstein","Europe","total_deaths",59
+"116","Lithuania","Europe","total_deaths",4415
+"117","Luxembourg","Europe","total_deaths",822
+"118","Macedonia","Europe","total_deaths",5493
+"119","Madagascar","Africa","total_deaths",943
+"120","Malawi","Africa","total_deaths",1614
+"121","Malaysia","Asia","total_deaths",9024
+"122","Maldives","Asia","total_deaths",221
+"123","Mali","Africa","total_deaths",532
+"124","Malta","Europe","total_deaths",423
+"125","Marshall Islands","Australia/Oceania","total_deaths",NA
+"126","Martinique","North America","total_deaths",111
+"127","Mauritania","Africa","total_deaths",562
+"128","Mauritius","Africa","total_deaths",19
+"129","Mayotte","Africa","total_deaths",174
+"130","Mexico","North America","total_deaths",240456
+"131","Micronesia","Australia/Oceania","total_deaths",NA
+"132","Moldova","Europe","total_deaths",6255
+"133","Monaco","Europe","total_deaths",33
+"134","Mongolia","Asia","total_deaths",815
+"135","Montenegro","Europe","total_deaths",1630
+"136","Montserrat","North America","total_deaths",1
+"137","Morocco","Africa","total_deaths",9785
+"138","Mozambique","Africa","total_deaths",1434
+"139","Myanmar","Asia","total_deaths",9334
+"140","Namibia","Africa","total_deaths",3044
+"141","Nepal","Asia","total_deaths",9857
+"142","Netherlands","Europe","total_deaths",17827
+"143","New Caledonia","Australia/Oceania","total_deaths",NA
+"144","New Zealand","Australia/Oceania","total_deaths",26
+"145","Nicaragua","North America","total_deaths",195
+"146","Niger","Africa","total_deaths",195
+"147","Nigeria","Africa","total_deaths",2149
+"148","Norway","Europe","total_deaths",799
+"149","Oman","Asia","total_deaths",3814
+"150","Pakistan","Asia","total_deaths",23360
+"151","Panama","North America","total_deaths",6808
+"152","Papua New Guinea","Australia/Oceania","total_deaths",192
+"153","Paraguay","South America","total_deaths",14929
+"154","Peru","South America","total_deaths",196291
+"155","Philippines","Asia","total_deaths",27889
+"156","Poland","Europe","total_deaths",75261
+"157","Portugal","Europe","total_deaths",17361
+"158","Qatar","Asia","total_deaths",601
+"159","Reunion","Africa","total_deaths",275
+"160","Romania","Europe","total_deaths",34281
+"161","Russia","Europe","total_deaths",158563
+"162","Rwanda","Africa","total_deaths",808
+"163","Saint Barthelemy","North America","total_deaths",1
+"164","Saint Helena","Africa","total_deaths",NA
+"165","Saint Kitts And Nevis","North America","total_deaths",3
+"166","Saint Lucia","North America","total_deaths",89
+"167","Saint Martin","North America","total_deaths",38
+"168","Saint Pierre And Miquelon","North America","total_deaths",NA
+"169","Saint Vincent And The Grenadines","North America","total_deaths",12
+"170","Samoa","Australia/Oceania","total_deaths",NA
+"171","San Marino","Europe","total_deaths",90
+"172","Sao Tome And Principe","Africa","total_deaths",37
+"173","Saudi Arabia","Asia","total_deaths",8237
+"174","Senegal","Africa","total_deaths",1353
+"175","Serbia","Europe","total_deaths",7114
+"176","Seychelles","Africa","total_deaths",94
+"177","Sierra Leone","Africa","total_deaths",120
+"178","Singapore","Asia","total_deaths",37
+"179","Sint Maarten","North America","total_deaths",34
+"180","Slovakia","Europe","total_deaths",12540
+"181","Slovenia","Europe","total_deaths",4429
+"182","Solomon Islands","Australia/Oceania","total_deaths",NA
+"183","Somalia","Africa","total_deaths",809
+"184","South Africa","Africa","total_deaths",72013
+"185","South Korea","Asia","total_deaths",2095
+"186","South Sudan","Africa","total_deaths",119
+"187","Spain","Europe","total_deaths",81486
+"188","Sri Lanka","Asia","total_deaths",4436
+"189","State Of Palestine","Asia","total_deaths",3603
+"190","Sudan","Africa","total_deaths",2776
+"191","Suriname","South America","total_deaths",645
+"192","Swaziland","Africa","total_deaths",787
+"193","Sweden","Europe","total_deaths",14617
+"194","Switzerland","Europe","total_deaths",10906
+"195","Syria","Asia","total_deaths",1914
+"196","Taiwan","Asia","total_deaths",787
+"197","Tajikistan","Asia","total_deaths",121
+"198","Tanzania","Africa","total_deaths",21
+"199","Thailand","Asia","total_deaths",4857
+"200","Timor Leste","Asia","total_deaths",26
+"201","Togo","Africa","total_deaths",152
+"202","Trinidad And Tobago","North America","total_deaths",1070
+"203","Tunisia","Africa","total_deaths",19686
+"204","Turkey","Asia","total_deaths",51332
+"205","Turks And Caicos Islands","North America","total_deaths",18
+"206","Uganda","Africa","total_deaths",2690
+"207","United Kingdom","Europe","total_deaths",129654
+"208","Ukraine","Europe","total_deaths",52945
+"209","United Arab Emirates","Asia","total_deaths",1949
+"210","Uruguay","South America","total_deaths",5959
+"211","United States of America","North America","total_deaths",629290
+"212","Uzbekistan","Asia","total_deaths",874
+"213","Vanuatu","Australia/Oceania","total_deaths",1
+"214","Venezuela","South America","total_deaths",3576
+"215","Vietnam","Asia","total_deaths",1161
+"216","Wallis And Futuna Islands","Australia/Oceania","total_deaths",7
+"217","Western Sahara","Africa","total_deaths",1
+"218","Yemen","Asia","total_deaths",1375
+"219","Zambia","Africa","total_deaths",3389
+"220","Zimbabwe","Africa","total_deaths",3490
+"221","Afghanistan","Asia","total_recovered",98073
+"222","Albania","Europe","total_recovered",130222
+"223","Algeria","Africa","total_recovered",115276
+"224","Andorra","Europe","total_recovered",14210
+"225","Angola","Africa","total_recovered",36708
+"226","Anguilla","North America","total_recovered",111
+"227","Antigua And Barbuda","North America","total_recovered",1235
+"228","Argentina","South America","total_recovered",4569552
+"229","Armenia","Asia","total_recovered",219864
+"230","Aruba","North America","total_recovered",11160
+"231","Australia","Australia/Oceania","total_recovered",29926
+"232","Austria","Europe","total_recovered",643027
+"233","Azerbaijan","Asia","total_recovered",332926
+"234","Bahamas","North America","total_recovered",12606
+"235","Bahrain","Asia","total_recovered",266796
+"236","Bangladesh","Asia","total_recovered",1078212
+"237","Barbados","North America","total_recovered",4229
+"238","Belarus","Europe","total_recovered",440200
+"239","Belgium","Europe","total_recovered",1058072
+"240","Belize","North America","total_recovered",13420
+"241","Benin","Africa","total_recovered",8136
+"242","Bermuda","North America","total_recovered",2495
+"243","Bhutan","Asia","total_recovered",2374
+"244","Bolivia","South America","total_recovered",407072
+"245","Bosnia And Herzegovina","Europe","total_recovered",189369
+"246","Botswana","Africa","total_recovered",95323
+"247","Brazil","South America","total_recovered",18619542
+"248","British Virgin Islands","North America","total_recovered",1914
+"249","Brunei Darussalam","Asia","total_recovered",280
+"250","Bulgaria","Europe","total_recovered",398536
+"251","Burkina Faso","Africa","total_recovered",13369
+"252","Burundi","Africa","total_recovered",773
+"253","Cabo Verde","Africa","total_recovered",33011
+"254","Cambodia","Asia","total_recovered",69996
+"255","Cameroon","Africa","total_recovered",80433
+"256","Canada","North America","total_recovered",1397641
+"257","Caribbean Netherlands","North America","total_recovered",1661
+"258","Cayman Islands","North America","total_recovered",631
+"259","Central African Republic","Africa","total_recovered",6859
+"260","Chad","Africa","total_recovered",4792
+"261","Channel Islands","Europe","total_recovered",6558
+"262","Chile","South America","total_recovered",1570492
+"263","China Hong Kong Sar","Asia","total_recovered",11713
+"264","China Macao Sar","Asia","total_recovered",54
+"265","China","Asia","total_recovered",87323
+"266","Colombia","South America","total_recovered",4578519
+"267","Comoros","Africa","total_recovered",3865
+"268","Congo","Africa","total_recovered",12421
+"269","Costa Rica","North America","total_recovered",329639
+"270","Cote D Ivoire","Africa","total_recovered",49261
+"271","Croatia","Europe","total_recovered",354238
+"272","Cuba","North America","total_recovered",338968
+"273","Curacao","North America","total_recovered",12853
+"274","Cyprus","Asia","total_recovered",80178
+"275","Czech Republic","Europe","total_recovered",1640314
+"276","Democratic Republic Of The Congo","Africa","total_recovered",29994
+"277","Denmark","Europe","total_recovered",303182
+"278","Djibouti","Africa","total_recovered",11490
+"279","Dominica","North America","total_recovered",200
+"280","Dominican Republic","North America","total_recovered",323333
+"281","Ecuador","South America","total_recovered",443880
+"282","Egypt","Africa","total_recovered",229712
+"283","El Salvador","North America","total_recovered",76265
+"284","Equatorial Guinea","Africa","total_recovered",8637
+"285","Eritrea","Africa","total_recovered",6444
+"286","Estonia","Europe","total_recovered",128898
+"287","Ethiopia","Africa","total_recovered",263500
+"288","Faeroe Islands","Europe","total_recovered",943
+"289","Falkland Islands Malvinas","South America","total_recovered",63
+"290","Fiji","Australia/Oceania","total_recovered",7705
+"291","Finland","Europe","total_recovered",46000
+"292","France","Europe","total_recovered",5700815
+"293","French Guiana","South America","total_recovered",9995
+"294","French Polynesia","Australia/Oceania","total_recovered",19206
+"295","Gabon","Africa","total_recovered",25166
+"296","Gambia","Africa","total_recovered",6600
+"297","Georgia","Asia","total_recovered",382393
+"298","Germany","Europe","total_recovered",3653300
+"299","Ghana","Africa","total_recovered",97213
+"300","Gibraltar","Europe","total_recovered",4471
+"301","Greece","Europe","total_recovered",446985
+"302","Greenland","North America","total_recovered",78
+"303","Grenada","North America","total_recovered",161
+"304","Guadeloupe","North America","total_recovered",2250
+"305","Guatemala","North America","total_recovered",321832
+"306","Guinea Bissau","Africa","total_recovered",3897
+"307","Guinea","Africa","total_recovered",24148
+"308","Guyana","South America","total_recovered",21166
+"309","Haiti","North America","total_recovered",14248
+"310","Holy See","Europe","total_recovered",27
+"311","Honduras","North America","total_recovered",100697
+"312","Hungary","Europe","total_recovered",748157
+"313","Iceland","Europe","total_recovered",6716
+"314","India","Asia","total_recovered",30812873
+"315","Indonesia","Asia","total_recovered",2770092
+"316","Iran","Asia","total_recovered",3367272
+"317","Iraq","Asia","total_recovered",1464273
+"318","Ireland","Europe","total_recovered",267749
+"319","Isle Of Man","Europe","total_recovered",3365
+"320","Israel","Asia","total_recovered",849081
+"321","Italy","Europe","total_recovered",4134680
+"322","Jamaica","North America","total_recovered",46979
+"323","Japan","Asia","total_recovered",834967
+"324","Jordan","Asia","total_recovered",750518
+"325","Kazakhstan","Asia","total_recovered",473344
+"326","Kenya","Africa","total_recovered",188936
+"327","Kuwait","Asia","total_recovered",384062
+"328","Kyrgyzstan","Asia","total_recovered",144564
+"329","Laos","Asia","total_recovered",2804
+"330","Latvia","Europe","total_recovered",135583
+"331","Lebanon","Asia","total_recovered",537111
+"332","Lesotho","Africa","total_recovered",6649
+"333","Liberia","Africa","total_recovered",2715
+"334","Libya","Africa","total_recovered",190978
+"335","Liechtenstein","Europe","total_recovered",3009
+"336","Lithuania","Europe","total_recovered",269309
+"337","Luxembourg","Europe","total_recovered",71867
+"338","Macedonia","Europe","total_recovered",150362
+"339","Madagascar","Africa","total_recovered",41127
+"340","Malawi","Africa","total_recovered",37693
+"341","Malaysia","Asia","total_recovered",914639
+"342","Maldives","Asia","total_recovered",74598
+"343","Mali","Africa","total_recovered",13945
+"344","Malta","Europe","total_recovered",31629
+"345","Marshall Islands","Australia/Oceania","total_recovered",4
+"346","Martinique","North America","total_recovered",104
+"347","Mauritania","Africa","total_recovered",22228
+"348","Mauritius","Africa","total_recovered",1854
+"349","Mayotte","Africa","total_recovered",2964
+"350","Mexico","North America","total_recovered",2204109
+"351","Micronesia","Australia/Oceania","total_recovered",1
+"352","Moldova","Europe","total_recovered",252051
+"353","Monaco","Europe","total_recovered",2707
+"354","Mongolia","Asia","total_recovered",164829
+"355","Montenegro","Europe","total_recovered",98971
+"356","Montserrat","North America","total_recovered",19
+"357","Morocco","Africa","total_recovered",561930
+"358","Mozambique","Africa","total_recovered",88380
+"359","Myanmar","Asia","total_recovered",209512
+"360","Namibia","Africa","total_recovered",95250
+"361","Nepal","Asia","total_recovered",654177
+"362","Netherlands","Europe","total_recovered",1668004
+"363","New Caledonia","Australia/Oceania","total_recovered",58
+"364","New Zealand","Australia/Oceania","total_recovered",2799
+"365","Nicaragua","North America","total_recovered",4225
+"366","Niger","Africa","total_recovered",5342
+"367","Nigeria","Africa","total_recovered",164978
+"368","Norway","Europe","total_recovered",88952
+"369","Oman","Asia","total_recovered",278195
+"370","Pakistan","Asia","total_recovered",940164
+"371","Panama","North America","total_recovered",415265
+"372","Papua New Guinea","Australia/Oceania","total_recovered",17324
+"373","Paraguay","South America","total_recovered",419028
+"374","Peru","South America","total_recovered",NA
+"375","Philippines","Asia","total_recovered",1500189
+"376","Poland","Europe","total_recovered",2653700
+"377","Portugal","Europe","total_recovered",902014
+"378","Qatar","Asia","total_recovered",223732
+"379","Reunion","Africa","total_recovered",33894
+"380","Romania","Europe","total_recovered",1047723
+"381","Russia","Europe","total_recovered",5608619
+"382","Rwanda","Africa","total_recovered",44837
+"383","Saint Barthelemy","North America","total_recovered",462
+"384","Saint Helena","Africa","total_recovered",2
+"385","Saint Kitts And Nevis","North America","total_recovered",542
+"386","Saint Lucia","North America","total_recovered",5368
+"387","Saint Martin","North America","total_recovered",1399
+"388","Saint Pierre And Miquelon","North America","total_recovered",26
+"389","Saint Vincent And The Grenadines","North America","total_recovered",2229
+"390","Samoa","Australia/Oceania","total_recovered",3
+"391","San Marino","Europe","total_recovered",5005
+"392","Sao Tome And Principe","Africa","total_recovered",2358
+"393","Saudi Arabia","Asia","total_recovered",506089
+"394","Senegal","Africa","total_recovered",47136
+"395","Serbia","Europe","total_recovered",710555
+"396","Seychelles","Africa","total_recovered",17538
+"397","Sierra Leone","Africa","total_recovered",4270
+"398","Singapore","Asia","total_recovered",62863
+"399","Sint Maarten","North America","total_recovered",2655
+"400","Slovakia","Europe","total_recovered",379535
+"401","Slovenia","Europe","total_recovered",253742
+"402","Solomon Islands","Australia/Oceania","total_recovered",20
+"403","Somalia","Africa","total_recovered",7498
+"404","South Africa","Africa","total_recovered",2222338
+"405","South Korea","Asia","total_recovered",174177
+"406","South Sudan","Africa","total_recovered",10514
+"407","Spain","Europe","total_recovered",3711200
+"408","Sri Lanka","Asia","total_recovered",277118
+"409","State Of Palestine","Asia","total_recovered",311832
+"410","Sudan","Africa","total_recovered",30867
+"411","Suriname","South America","total_recovered",21610
+"412","Swaziland","Africa","total_recovered",20918
+"413","Sweden","Europe","total_recovered",1076030
+"414","Switzerland","Europe","total_recovered",692101
+"415","Syria","Asia","total_recovered",21987
+"416","Taiwan","Asia","total_recovered",14110
+"417","Tajikistan","Asia","total_recovered",14556
+"418","Tanzania","Africa","total_recovered",183
+"419","Thailand","Asia","total_recovered",391920
+"420","Timor Leste","Asia","total_recovered",9889
+"421","Togo","Africa","total_recovered",14450
+"422","Trinidad And Tobago","North America","total_recovered",31783
+"423","Tunisia","Africa","total_recovered",510696
+"424","Turkey","Asia","total_recovered",5454360
+"425","Turks And Caicos Islands","North America","total_recovered",2431
+"426","Uganda","Africa","total_recovered",83115
+"427","United Kingdom","Europe","total_recovered",4508650
+"428","Ukraine","Europe","total_recovered",2186863
+"429","United Arab Emirates","Asia","total_recovered",658198
+"430","Uruguay","South America","total_recovered",373290
+"431","United States of America","North America","total_recovered",29666084
+"432","Uzbekistan","Asia","total_recovered",123164
+"433","Vanuatu","Australia/Oceania","total_recovered",3
+"434","Venezuela","South America","total_recovered",288864
+"435","Vietnam","Asia","total_recovered",35484
+"436","Wallis And Futuna Islands","Australia/Oceania","total_recovered",438
+"437","Western Sahara","Africa","total_recovered",8
+"438","Yemen","Asia","total_recovered",4185
+"439","Zambia","Africa","total_recovered",187236
+"440","Zimbabwe","Africa","total_recovered",74562
+"441","Afghanistan","Asia","active_cases",42664
+"442","Albania","Europe","active_cases",402
+"443","Algeria","Africa","active_cases",51862
+"444","Andorra","Europe","active_cases",340
+"445","Angola","Africa","active_cases",4930
+"446","Anguilla","North America","active_cases",2
+"447","Antigua And Barbuda","North America","active_cases",25
+"448","Argentina","South America","active_cases",254491
+"449","Armenia","Asia","active_cases",5632
+"450","Aruba","North America","active_cases",460
+"451","Australia","Australia/Oceania","active_cases",3280
+"452","Austria","Europe","active_cases",5292
+"453","Azerbaijan","Asia","active_cases",5900
+"454","Bahamas","North America","active_cases",1947
+"455","Bahrain","Asia","active_cases",1006
+"456","Bangladesh","Asia","active_cases",150587
+"457","Barbados","North America","active_cases",113
+"458","Belarus","Europe","active_cases",2386
+"459","Belgium","Europe","active_cases",41402
+"460","Belize","North America","active_cases",406
+"461","Benin","Africa","active_cases",150
+"462","Bermuda","North America","active_cases",25
+"463","Bhutan","Asia","active_cases",139
+"464","Bolivia","South America","active_cases",47935
+"465","Bosnia And Herzegovina","Europe","active_cases",6599
+"466","Botswana","Africa","active_cases",9798
+"467","Brazil","South America","active_cases",741943
+"468","British Virgin Islands","North America","active_cases",555
+"469","Brunei Darussalam","Asia","active_cases",54
+"470","Bulgaria","Europe","active_cases",8125
+"471","Burkina Faso","Africa","active_cases",35
+"472","Burundi","Africa","active_cases",6298
+"473","Cabo Verde","Africa","active_cases",482
+"474","Cambodia","Asia","active_cases",5850
+"475","Cameroon","Africa","active_cases",297
+"476","Canada","North America","active_cases",6586
+"477","Caribbean Netherlands","North America","active_cases",29
+"478","Cayman Islands","North America","active_cases",10
+"479","Central African Republic","Africa","active_cases",194
+"480","Chad","Africa","active_cases",7
+"481","Channel Islands","Europe","active_cases",2564
+"482","Chile","South America","active_cases",9831
+"483","China Hong Kong Sar","Asia","active_cases",60
+"484","China Macao Sar","Asia","active_cases",5
+"485","China","Asia","active_cases",971
+"486","Colombia","South America","active_cases",86078
+"487","Comoros","Africa","active_cases",16
+"488","Congo","Africa","active_cases",587
+"489","Costa Rica","North America","active_cases",72145
+"490","Cote D Ivoire","Africa","active_cases",545
+"491","Croatia","Europe","active_cases",1118
+"492","Cuba","North America","active_cases",42870
+"493","Curacao","North America","active_cases",646
+"494","Cyprus","Asia","active_cases",20822
+"495","Czech Republic","Europe","active_cases",2889
+"496","Democratic Republic Of The Congo","Africa","active_cases",18885
+"497","Denmark","Europe","active_cases",11076
+"498","Djibouti","Africa","active_cases",5
+"499","Dominica","North America","active_cases",10
+"500","Dominican Republic","North America","active_cases",14609
+"501","Ecuador","South America","active_cases",11073
+"502","Egypt","Africa","active_cases",37985
+"503","El Salvador","North America","active_cases",7726
+"504","Equatorial Guinea","Africa","active_cases",120
+"505","Eritrea","Africa","active_cases",68
+"506","Estonia","Europe","active_cases",3387
+"507","Ethiopia","Africa","active_cases",12480
+"508","Faeroe Islands","Europe","active_cases",38
+"509","Falkland Islands Malvinas","South America","active_cases",0
+"510","Fiji","Australia/Oceania","active_cases",21838
+"511","Finland","Europe","active_cases",59820
+"512","France","Europe","active_cases",314337
+"513","French Guiana","South America","active_cases",19982
+"514","French Polynesia","Australia/Oceania","active_cases",693
+"515","Gabon","Africa","active_cases",54
+"516","Gambia","Africa","active_cases",897
+"517","Georgia","Asia","active_cases",31321
+"518","Germany","Europe","active_cases",31250
+"519","Ghana","Africa","active_cases",4983
+"520","Gibraltar","Europe","active_cases",400
+"521","Greece","Europe","active_cases",33379
+"522","Greenland","North America","active_cases",41
+"523","Grenada","North America","active_cases",2
+"524","Guadeloupe","North America","active_cases",17011
+"525","Guatemala","North America","active_cases",36313
+"526","Guinea Bissau","Africa","active_cases",479
+"527","Guinea","Africa","active_cases",1320
+"528","Guyana","South America","active_cases",757
+"529","Haiti","North America","active_cases",5354
+"530","Holy See","Europe","active_cases",0
+"531","Honduras","North America","active_cases",188580
+"532","Hungary","Europe","active_cases",31308
+"533","Iceland","Europe","active_cases",1213
+"534","India","Asia","active_cases",417327
+"535","Indonesia","Asia","active_cases",545447
+"536","Iran","Asia","active_cases",413106
+"537","Iraq","Asia","active_cases",143669
+"538","Ireland","Europe","active_cases",28192
+"539","Isle Of Man","Europe","active_cases",1366
+"540","Israel","Asia","active_cases",18464
+"541","Italy","Europe","active_cases",87285
+"542","Jamaica","North America","active_cases",4726
+"543","Japan","Asia","active_cases",63604
+"544","Jordan","Asia","active_cases",10162
+"545","Kazakhstan","Asia","active_cases",93366
+"546","Kenya","Africa","active_cases",10346
+"547","Kuwait","Asia","active_cases",11449
+"548","Kyrgyzstan","Asia","active_cases",16003
+"549","Laos","Asia","active_cases",3488
+"550","Latvia","Europe","active_cases",724
+"551","Lebanon","Asia","active_cases",16363
+"552","Lesotho","Africa","active_cases",5885
+"553","Liberia","Africa","active_cases",2533
+"554","Libya","Africa","active_cases",54627
+"555","Liechtenstein","Europe","active_cases",17
+"556","Lithuania","Europe","active_cases",9094
+"557","Luxembourg","Europe","active_cases",1181
+"558","Macedonia","Europe","active_cases",525
+"559","Madagascar","Africa","active_cases",582
+"560","Malawi","Africa","active_cases",12502
+"561","Malaysia","Asia","active_cases",189609
+"562","Maldives","Asia","active_cases",2613
+"563","Mali","Africa","active_cases",107
+"564","Malta","Europe","active_cases",2243
+"565","Marshall Islands","Australia/Oceania","active_cases",0
+"566","Martinique","North America","active_cases",18934
+"567","Mauritania","Africa","active_cases",2901
+"568","Mauritius","Africa","active_cases",2040
+"569","Mayotte","Africa","active_cases",16356
+"570","Mexico","North America","active_cases",384878
+"571","Micronesia","Australia/Oceania","active_cases",0
+"572","Moldova","Europe","active_cases",1172
+"573","Monaco","Europe","active_cases",149
+"574","Mongolia","Asia","active_cases",-1489
+"575","Montenegro","Europe","active_cases",1326
+"576","Montserrat","North America","active_cases",1
+"577","Morocco","Africa","active_cases",51813
+"578","Mozambique","Africa","active_cases",32214
+"579","Myanmar","Asia","active_cases",80339
+"580","Namibia","Africa","active_cases",20628
+"581","Nepal","Asia","active_cases",31355
+"582","Netherlands","Europe","active_cases",179680
+"583","New Caledonia","Australia/Oceania","active_cases",76
+"584","New Zealand","Australia/Oceania","active_cases",45
+"585","Nicaragua","North America","active_cases",5050
+"586","Niger","Africa","active_cases",86
+"587","Nigeria","Africa","active_cases",6284
+"588","Norway","Europe","active_cases",47876
+"589","Oman","Asia","active_cases",13848
+"590","Pakistan","Asia","active_cases",66287
+"591","Panama","North America","active_cases",12387
+"592","Papua New Guinea","Australia/Oceania","active_cases",201
+"593","Paraguay","South America","active_cases",18128
+"594","Peru","South America","active_cases",NA
+"595","Philippines","Asia","active_cases",60887
+"596","Poland","Europe","active_cases",153978
+"597","Portugal","Europe","active_cases",49256
+"598","Qatar","Asia","active_cases",1906
+"599","Reunion","Africa","active_cases",3062
+"600","Romania","Europe","active_cases",1185
+"601","Russia","Europe","active_cases",498691
+"602","Rwanda","Africa","active_cases",25053
+"603","Saint Barthelemy","North America","active_cases",732
+"604","Saint Helena","Africa","active_cases",0
+"605","Saint Kitts And Nevis","North America","active_cases",44
+"606","Saint Lucia","North America","active_cases",124
+"607","Saint Martin","North America","active_cases",1142
+"608","Saint Pierre And Miquelon","North America","active_cases",2
+"609","Saint Vincent And The Grenadines","North America","active_cases",50
+"610","Samoa","Australia/Oceania","active_cases",0
+"611","San Marino","Europe","active_cases",35
+"612","Sao Tome And Principe","Africa","active_cases",51
+"613","Saudi Arabia","Asia","active_cases",11404
+"614","Senegal","Africa","active_cases",13801
+"615","Serbia","Europe","active_cases",4249
+"616","Seychelles","Africa","active_cases",557
+"617","Sierra Leone","Africa","active_cases",1893
+"618","Singapore","Asia","active_cases",2081
+"619","Sint Maarten","North America","active_cases",81
+"620","Slovakia","Europe","active_cases",572
+"621","Slovenia","Europe","active_cases",1044
+"622","Solomon Islands","Australia/Oceania","active_cases",0
+"623","Somalia","Africa","active_cases",7051
+"624","South Africa","Africa","active_cases",153103
+"625","South Korea","Asia","active_cases",22073
+"626","South Sudan","Africa","active_cases",416
+"627","Spain","Europe","active_cases",654358
+"628","Sri Lanka","Asia","active_cases",27258
+"629","State Of Palestine","Asia","active_cases",1303
+"630","Sudan","Africa","active_cases",3495
+"631","Suriname","South America","active_cases",3032
+"632","Swaziland","Africa","active_cases",4274
+"633","Sweden","Europe","active_cases",9393
+"634","Switzerland","Europe","active_cases",14658
+"635","Syria","Asia","active_cases",2062
+"636","Taiwan","Asia","active_cases",777
+"637","Tajikistan","Asia","active_cases",405
+"638","Tanzania","Africa","active_cases",813
+"639","Thailand","Asia","active_cases",200510
+"640","Timor Leste","Asia","active_cases",983
+"641","Togo","Africa","active_cases",1196
+"642","Trinidad And Tobago","North America","active_cases",5958
+"643","Tunisia","Africa","active_cases",59183
+"644","Turkey","Asia","active_cases",221353
+"645","Turks And Caicos Islands","North America","active_cases",35
+"646","Uganda","Africa","active_cases",8122
+"647","United Kingdom","Europe","active_cases",1218224
+"648","Ukraine","Europe","active_cases",12977
+"649","United Arab Emirates","Asia","active_cases",20711
+"650","Uruguay","South America","active_cases",2115
+"651","United States of America","North America","active_cases",5438593
+"652","Uzbekistan","Asia","active_cases",5289
+"653","Vanuatu","Australia/Oceania","active_cases",0
+"654","Venezuela","South America","active_cases",12286
+"655","Vietnam","Asia","active_cases",104477
+"656","Wallis And Futuna Islands","Australia/Oceania","active_cases",0
+"657","Western Sahara","Africa","active_cases",1
+"658","Yemen","Asia","active_cases",1501
+"659","Zambia","Africa","active_cases",5191
+"660","Zimbabwe","Africa","active_cases",29438
