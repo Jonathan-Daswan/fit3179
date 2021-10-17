@@ -71,7 +71,7 @@
       "type": "nominal",
       "scale": {
         "domain": ["total_deaths", "total_recovered", "active_cases"],
-        "range": ["red", "green", "#aec7e8"]
+        "range": ["#ffc20a", "#0c7bdc", "#d55e00"]
       },
       "legend":{"labelExpr":"{'total_deaths': 'Total Deaths', 'total_recovered': 'Total Recovered', 'active_cases': 'Active Cases'}[datum.label]"},
       "title": "Covid Cases"
