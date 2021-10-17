@@ -1,12 +1,81 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 700,
-    "description": "",
-    "data": {"url": "https://raw.githubusercontent.com/Jonathan-Daswan/fit3179/main/worldometer_coronavirus_summary_data.csv"},
-    "mark": {"type": "bar", "cornerRadiusEnd": 6},
-    "encoding": {
-      "x": {"field": "continent", "type": "ordinal"},
-      "y": {"field": "total_confirmed", "aggregate": "sum"}
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "data": {"url": "https://raw.githubusercontent.com/Jonathan-Daswan/fit3179/main/covSumLong.csv"},
+  "title":"Covid-19 Cases In Each Country",
+  "params": [
+ {
+ "name": "Continent_selection",
+ "value":"Australia/Oceania",
+ "bind": {
+ "input": "select",
+ "options": [
+   null,
+ "Africa",
+ "Asia",
+ "Australia/Oceania",
+ "Europe",
+ "North America",
+ "South America"
+ ],
+ "labels":["Global"],
+ "name": "Continent Selection: "
+ }
+ },
+ {
+ "name": "Country_selection",
+ "bind": {
+ "input": "select",
+ "options": [
+ null,
+ "Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla","Antigua And Barbuda",
+"Argentina","Armenia","Aruba","Australia","Austria","Azerbaijan","Bahamas","Bahrain","Bangladesh","Barbados","Belarus","Belgium","Belize","Benin","Bermuda","Bhutan","Bolivia","Bosnia And Herzegovina","Botswana","Brazil","British Virgin Islands","Brunei Darussalam","Bulgaria","Burkina Faso","Burundi","Cabo Verde","Cambodia","Cameroon","Canada","Caribbean Netherlands","Cayman Islands","Central African Republic","Chad","Channel Islands","Chile","China Hong Kong Sar","China Macao Sar","China","Colombia","Comoros","Congo","Costa Rica","Cote D Ivoire","Croatia","Cuba","Curacao","Cyprus","Czech Republic","Democratic Republic Of The Congo","Denmark","Djibouti","Dominica","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Eritrea","Estonia","Ethiopia","Faeroe Islands","Falkland Islands Malvinas","Fiji","Finland","France","French Guiana","French Polynesia","Gabon","Gambia","Georgia","Germany","Ghana","Gibraltar","Greece","Greenland","Grenada","Guadeloupe","Guatemala","Guinea Bissau","Guinea","Guyana","Haiti","Holy See","Honduras","Hungary","Iceland","India","Indonesia","Iran","Iraq","Ireland","Isle Of Man","Israel","Italy","Jamaica","Japan","Jordan","Kazakhstan","Kenya","Kuwait","Kyrgyzstan","Laos","Latvia","Lebanon","Lesotho","Liberia","Libya","Liechtenstein","Lithuania","Luxembourg","Macedonia","Madagascar","Malawi","Malaysia","Maldives","Mali","Malta","Marshall Islands","Martinique","Mauritus","Mauritania","Mayotte","Mexico","Micronesia","Moldova","Monaco","Mongolia","Montenegro","Montserrat","Morocco","Mozambique","Myanmar","Namibia","Nepal","Netherlands","New Caledonia","New Zealand","Nicaragua","Niger","Nigeria","Norway","Oman","Pakistan","Panama","Papua New Guinea","Paraguay","Peru","Philippines","Poland","Portugal","Qatar","Reunion","Romania","Russia","Rwanda","Saint Barthelemy","Saint Helena","Saint Kitts And Nevis","Saint Lucia","Saint Martin","Saint Pierre and Miquelon","Saint Vincent And The Grenadines","Samoa","San Marino","Sao Tome And Principe","Saudi Arabia","Senegal","Serbia","Seychelles","Sierra Leone","Singapore","Sint Maarten","Slovakia","Slovenia","Solomon Islands","Somalia","South Africa","South Korea","South Sudan","Spain","Sri Lanka","State Of Palestine","Sudan","Suriname","Swaziland","Sweden","Switzerland","Syria","Taiwan","Tajikistan","Tanzania","Thailand","Timor Leste","Togo","Trinidad And Tobago","Tunisia","Turkey","Turks And Caicos Islands","Uganda","United Kingdom","Ukraine","United Arab Emirates","Uruguay","United States of America","Uzbekistan","Vanuatu","Venezuela","Vietnam","Wallis And Futuna Islands","Western Sahara","Yemen","Zambia","Zimbabwe"
+ ],
+ "name": "Country Selection: "
+ }
+ }
+ ],
+ "selection": {
+ "continent_highlight": {
+ "type": "multi",
+ "fields": ["Continent"],
+ "bind": "legend"
+ },
+ "country_highlight":{
+   "type": "multi",
+ "fields": ["Country"],
+ "bind": "legend"
+ }
+ },
+  "transform":[
+      {"filter": "Continent_selection == null || datum.continent == Continent_selection"},
+      {"filter": "Country_selection == null || datum.country == Country_selection"}
+  ],
+
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "country",
+      "type": "ordinal",
+      "title": "Country",
+      "sort": "-x"
+    },
+    "x": {
+      "field": "value",
+      "aggregate": "sum",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "variable",
+      "type": "nominal",
+      "scale": {
+        "domain": ["total_deaths", "total_recovered", "active_cases"],
+        "range": ["red", "green", "#aec7e8"]
+      },
+      "legend":{"labelExpr":"{'total_deaths': 'Total Deaths', 'total_recovered': 'Total Recovered', 'active_cases': 'Active Cases'}[datum.label]"},
+      "title": "Covid Cases"
     }
   }
+}
+
   

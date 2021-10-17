@@ -27,11 +27,12 @@
  "type": "quantitative",
  "scale": {"type": "threshold",
  "domain": [1000, 10000, 100000, 500000],
- "range": ["#ff9f7f", "#ff8259", "#ff6532", "#ff3f00", "#b22c00"]}
+ "range": ["#ff9f7f", "#ff8259", "#ff6532", "#ff3f00", "#b22c00"]},
+ "title": "Total Deaths"
  },
  "tooltip": [
  {"field": "properties.NAME", "type": "nominal", "title": "Country"},
- {"field": "total_deaths", "type": "quantitative"}
+ {"field": "total_deaths", "type": "quantitative", "title" : "Total Deaths"}
  ]
  }
 }
